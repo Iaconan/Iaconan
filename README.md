@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iaconan
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Computer Science and Digital Marketing
 - 🌱 I’m currently learning : Javascript(React) - and Python later on
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
