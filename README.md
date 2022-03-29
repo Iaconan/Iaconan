@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iaconan
+- 👋 Hi, I’m Vincenzo Iacona
 - 👀 I’m interested in Computer Science and Digital Marketing
 - 🌱 I’m currently learning : Javascript(React) - and Python later on
 - 💞️ I’m looking to collaborate on ...
